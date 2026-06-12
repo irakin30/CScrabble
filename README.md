@@ -1,3 +1,8 @@
+> [!NOTE]
+> This project was our final project for our System Fundamentals Class back during our senior year of high school (2023).
+> Expect bugs and memory leaks, maybe I'll get to fixing this up sooner or later.
+> As for now, this is just for showcase. 
+
 ## How to Play
 1. Running make with no arguments will immediately run a single instance of the client
 2. You can choose to either host, join, or load a game. Hosts will automatically join their own game, those who choose join will need to supply an id. The port is 25595
@@ -11,9 +16,9 @@
 
 # Members
 
-Zawad Dewan  
-Lee Eisenberg  
-Istab Rakin  
+[Zawad Dewan] (https://github.com/zawaddewan)
+[Lee Eisenberg] (https://github.com/LeeEisenberg) 
+[Istab Rakin] (https://github.com/irakin30)
 
 A simple recreation of the game scrabble on the command line interface (maybe with a seperate graphics window if we have the time) to be played with multiple players online.
 
